@@ -1,0 +1,11 @@
+## 相关文章
+- [shapeshifter](https://shapeshifter.design/)
+	- [shapeshifter使用步骤](https://www.cnblogs.com/guanxinjing/p/12810662.html)
+- [Google AnimatedVectorDrawable](https://developer.android.google.cn/reference/android/graphics/drawable/AnimatedVectorDrawable)
+- [Google 为可绘制图形添加动画效果](https://developer.android.google.cn/guide/topics/graphics/drawable-animation)
+- [【注释张豪华版 Path酷炫动画】极速get花式Path （支付宝支付成功动画）](https://juejin.cn/post/6844903459221684238)
+- [PathAnimView](https://github.com/HuanHaiLiuXin/PathAnimView)
+- vmde ，可以快速将 图片转换为 SVG.
+	- Vector Magic 搜索这个也可以.
+- [**写的很好 Android矢量图动画：每人送一辆掘金牌小黄车**](https://juejin.cn/post/6847902224396484621)
+- [**animatedvectordrawable系列教程**](https://blog.stylingandroid.com/category/resource-types/drawables/animatedvectordrawable/)
