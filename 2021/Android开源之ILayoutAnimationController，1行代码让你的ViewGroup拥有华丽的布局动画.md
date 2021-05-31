@@ -1,5 +1,6 @@
-*直接上动图：*
-![ILayoutAnimationController录屏.gif](http://upload-images.jianshu.io/upload_images/3501388-ce815cd39cf99b67.gif?imageMogr2/auto-orient/strip)
+*直接上动图：*<br>
+![ILayoutAnimationController录屏.gif](https://github.com/HuanHaiLiuXin/ILayoutAnimationController/blob/master/Screenshots/ILayoutAnimationController%E5%BD%95%E5%B1%8F.gif)
+<br>
 源码及DEMO已上传至**GitHub:**[**ILayoutAnimationController**](https://github.com/HuanHaiLiuXin/ILayoutAnimationController),欢迎大家提Bug,喜欢的话记得Star或Fork下哈!
 
 #### 1：ILayoutAnimationController是什么？其实现思路是？
